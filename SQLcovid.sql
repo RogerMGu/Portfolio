@@ -1,3 +1,5 @@
+-- Data downloaded from: https://ourworldindata.org/covid-deaths
+
 -- First view of cases and deaths.
 
 SELECT location, date, new_cases, total_cases
