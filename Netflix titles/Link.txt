@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/
+Date of download: 02-06-2022
+
+To do:
+
+- Content based recommender system based on genres and description
+- Main content available (what's more frequent?) - dashboard
+- EDA (exploratory data analysis)
+
