@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
+Date of Download: May 2022, although it doesn't matter for this project as long as the variables don't change.
