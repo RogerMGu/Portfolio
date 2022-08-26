@@ -3,7 +3,7 @@
 # 26/08/2022
 
 # The goal of this project is to make the data of over a million tracks functional for EDA, data modeling or a system recommendation.
-# Make sure to have "tracks_features.csv" and this .R file in the same folder and everything should run fine.
+#Make sure to set the directory to the folder with the "tracks_features.csv" file.
 
 
 tracks <- read.csv("tracks_features.csv")
@@ -47,7 +47,7 @@ tracks[, colnames(tracks) %in% names_numeric] <- as.data.frame(lapply(vars_num, 
 summary(tracks[, colnames(tracks) %in% names_numeric])
 
 
-### Square brackets are not needed for artist_ids. 
+### Square brackets are not needed for artist_ids nor artists
 tracks$artist_ids <- gsub("\\[", "", tracks$artist_ids)
 tracks$artist_ids <- gsub("\\]", "", tracks$artist_ids)
 
