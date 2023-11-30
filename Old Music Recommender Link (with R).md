@@ -1,4 +1,4 @@
-I have done a Music Recommender System with R and uploaded into shinyapps using Shiny package.
+I have built a Music Recommender System with R and deployed it into shinyapps using Shiny's R package.
 
 https://rogermgu.shinyapps.io/Music_Recommender/
 
