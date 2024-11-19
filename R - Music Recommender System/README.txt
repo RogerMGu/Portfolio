@@ -1,4 +1,6 @@
-Data downloaded from kaggle: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
+Data obtained from Kaggle: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
+
+The data can also be obtained from a Google Drive folder: https://drive.google.com/drive/folders/1kAPSInkKW76yNmzLFGFMGF2twK7Qyjx5?usp=sharing
 
 tracks_features.csv contains the original data from kaggle obtained in 18/11/2024. Move it to the same folder as the scripts and execute them in order from 1 to 3.
 
