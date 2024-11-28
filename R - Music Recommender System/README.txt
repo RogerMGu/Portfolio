@@ -1,7 +1,5 @@
 Data obtained from Kaggle: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
 
-The data can also be obtained from a Google Drive folder: https://drive.google.com/drive/folders/1kAPSInkKW76yNmzLFGFMGF2twK7Qyjx5?usp=sharing
-
 Access to the Music Recommender System: https://rogermgu.shinyapps.io/MusicRecommenderSystem/
 
 
