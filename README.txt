@@ -4,9 +4,9 @@ As a Data Analyst and Scientist I have worked on different independent projects 
 
 In this portfolio, I will share some of my projects focusing on each of these skills.
 
-Project 1 - Data cleaning and preparation with R or Python. Delivery Duration, TFG (Part 1) o Laptops.
+Project 1 - Data cleaning and preparation with R or Python.
 
-Project 2 - Data exploration with Python (and visualization with Power BI). World Population / Pizza.
+Project 2 - Data exploration with Python and visualization with Power BI. Pizza.
 
 Project 3 - Data transformation and visualization with SQL and Tableau. Disney+ Titles.
 
