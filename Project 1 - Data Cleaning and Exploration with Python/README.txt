@@ -1,0 +1,1 @@
+Project idea and data from StrataScratch: https://platform.stratascratch.com/data-projects/delivery-duration-prediction
