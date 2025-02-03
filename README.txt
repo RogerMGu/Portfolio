@@ -15,5 +15,4 @@ Currently working on:
 
 Project 3 - Data transformation with SQL and visualization with Tableau. Analysis of Netflix or Disney+ Titles.
 
-
 Project 4 - Data modeling with Python.
