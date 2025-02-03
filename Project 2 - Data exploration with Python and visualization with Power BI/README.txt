@@ -7,3 +7,5 @@ To do so, I have created two files:
 - A python notebook file for the initial exploration looking for insights.
 
 - A Power BI project with a dashboard to visualize the insights found.
+
+- There is also a .pdf file containing the dashboard, in case there is a problem with the Power BI project.
