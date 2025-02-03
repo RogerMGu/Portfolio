@@ -10,7 +10,7 @@ Project 2 - Data exploration with Python and visualization with Power BI. Analys
 
 Project 3 - Data transformation with SQL and visualization with Tableau. Analysis of Netflix or Disney+ Titles.
 
-Project 5 - Data modeling into a Recommender System with R. Music Recommender System.
+Project 5 - Music Recommender System with R.
 
 Working on:
 
