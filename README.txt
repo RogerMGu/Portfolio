@@ -1,4 +1,4 @@
-Welcome to Roger's Portfolio.
+Welcome to Roger Monclús Gumà's Portfolio.
 
 As a Data Analyst and Scientist I have worked on different independent projects to showcase my skills in data cleaning, transformation, exploration, modeling and visualization.
 
