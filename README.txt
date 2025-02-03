@@ -8,10 +8,12 @@ Project 1 - Data cleaning and exploration with Python. Analysis of the delivery 
 
 Project 2 - Data exploration with Python and visualization with Power BI. Analysis of Pizza orders of a restaurant.
 
-Project 3 - Data transformation with SQL and visualization with Tableau. Analysis of Netflix or Disney+ Titles.
-
 Project 5 - Music Recommender System with R.
 
-Working on:
+
+Currently working on:
+
+Project 3 - Data transformation with SQL and visualization with Tableau. Analysis of Netflix or Disney+ Titles.
+
 
 Project 4 - Data modeling with Python.
