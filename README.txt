@@ -1,6 +1,8 @@
 Welcome to Roger Monclús Gumà's Portfolio.
 
-As a Data Analyst and Scientist I have worked on different independent projects to showcase my skills in data cleaning, transformation, exploration, modeling and visualization. In this portfolio, I will share some of my projects focusing on each of these skills.
+As a Data Analyst and Scientist I have worked on different independent projects to showcase my skills in data cleaning, transformation, exploration, modeling and visualization. 
+
+In this portfolio, I will share some of my projects focusing on each of these skills.
 
 Project 1 - Data cleaning, transformation and exploration with Python. Analysis of the delivery duration of an online delivery company.
 
