@@ -1,8 +1,8 @@
-This project consisted in developing an exploratory analysis on the Sales of a Pizza restaurant during 2015.
+This project involved developing an exploratory analysis of the Sales of a Pizza restaurant during 2015.
 
 The main goal of the project was to provide insights into the restaurant's operations and identify potential areas of improvement.
 
-To do so, I have created two files:
+To do so, I have created three files:
 
 - A python notebook file for the initial exploration looking for insights.
 
